@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Introduce Yourself"
 # All dates must be YYYY-MM-DD format!
-date: 2023-01-26
+date: 2023-01-18
 published: true
 labels:
   - Introduction
