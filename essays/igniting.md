@@ -1,19 +1,27 @@
 ---
 layout: essay
 type: essay
-title: "Igniting the fire"
+title: "Introduce Yourself"
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
+date: 2023-01-26
 published: true
 labels:
-  - Software Engineering
-  - Learning
+  - Introduction
+  - MIS
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
+To be quite honest, I'm still unsure as to what I truly wish to pursue as a field of study or career.
 
-Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. For example, when looking at abstract art, its meaning can be completely different for different people. It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
+In the moment, I think of myself as Jazmin.
 
-I never used to think that design and technology went hand in hand.  Thus, learning about software engineering and the role of design has been incredibly interesting to me. Design, implementation, and management are just some of the many things I wish to learn more about. Good art, in a way, makes a person question it. They become joined in the idea of visualization – where captivation meets inspiration.
+The girl who likes to put way too many things on her plate and end of procrastinating on them all anyway.
 
-I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.
+The girl who enjoys spending time drawing on tablet programs, watching her favorite teams compete in video game tournaments, and finding the latest games to try herself or observe others play on YouTube.
+
+I do not think of a girl who knows what she wants to do. 
+
+The girl who eminates confidence and is not terrified of slight mistakes leading to catastrophic failure.
+
+I am still trying to create my own path and find my trajectory in life. At the very least, I can say the MIS major has helped with that.
+
+I decided on pursuing MIS because it provides me the hard skills I can apply to a variety of different fields, even if it does not end up being strictly related to programing. It is a leg-up I can gain on my competitors when applying to jobs regardless of the industry. With this, I am also allowed some flexibility in my curriculum to add other media-related classes I can also use to supplement my resume and solidify my interests. 
