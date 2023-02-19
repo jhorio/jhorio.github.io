@@ -1,0 +1,22 @@
+---
+layout: essay
+type: essay
+title: "E3: Preparing for WODs Technical Essay"
+# All dates must be YYYY-MM-DD format!
+date: 2023-02-18
+published: true
+labels:
+  - WODs
+---
+
+
+## Invoice 1
+
+  The last WOD I completed was Invoice 1. Invoice 1, which can be found [here (https://github.com/jhorio/ITM352_S23_repo/tree/main/WODs/Invoice1)], involved the usage of expressions, variables, and tables to create a webpage that displayed an invoice for multiple products.
+  
+  I feel that computational coding (mathmatetic expressions, if-else statements) is the easiest thing for me to understand as it is straightforward. It is also the most similar to my previous knowledge in Python, besides the indentations, that helped me get a firmer grasp on it. Filling out the variables and expressions were not too bad compared to other tasks we had in WODs.
+  I still get caught up on filling out templates and remembering what parts to alter and not alter, along with making sure I have proper syntax with placing $ signs and addings ; or brackets [] when I need to. This leads me to have 10 minutes of pause because I completely blank on what and where I exactly need to input the variables that I have. 
+  
+  Luckily, some of that confusion is alleviated when I remember to prepare for the WOD by reviewing Labs I had just completed. After doing the WODs we were assigned thusfar, I notice many of the parts I struggle with are similar to harder parts of the Lab we complete in the same module. We were also assigned to do a table in Lab6, so looking at that gave me a much needed refresher on how to adjust the product row template in the Invoice 1. 
+  
+   Still, I feel like I could do more to prepare for WODs. Something I could do before the next WOD is also reviewing the readings and presentations, on top of the most recent Lab to get warmed up on the general formats and expressions I need to use.
